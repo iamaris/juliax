@@ -16,4 +16,5 @@ Pkg.add(“JuMP)
 Pkg.add("Clp")
 Pkg.add("Ipopt")
 Pkg.add("PyPlot")
+Pkg.add("Gadfly")
 ```
